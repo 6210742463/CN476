@@ -8,3 +8,7 @@
 
 คลิปค้นหา IP ADDRESS โดยใช้คำสั่ง dig
 <https://youtu.be/s-IXEsMTpvU>
+
+คลิปอธิบาย TOR Browser ตามความเข้าใจ
+
+<https://youtu.be/Vqsxu-I7ibM>
